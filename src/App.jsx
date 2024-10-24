@@ -3,6 +3,7 @@ import ComSystem from "./Components/CommunitySystem/ComSystem";
 import HeaderInfo from "./Components/HeaderInfo/HeaderInfo";
 import NavBar from "./Components/NavBar/NavBar";
 import OurClients from "./Components/OurClients/OurClients";
+import PixelGrade from "./Components/PixelGrade/PixelGrade";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <main>
         <OurClients />
         <ComSystem />
+        <PixelGrade />
       </main>
     </>
   );
