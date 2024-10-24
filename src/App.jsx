@@ -1,4 +1,5 @@
 import "./App.css";
+import HeaderInfo from "./Components/HeaderInfo/HeaderInfo";
 import NavBar from "./Components/NavBar/NavBar";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <header className="bg-Silver">
         <NavBar />
+        <HeaderInfo />
       </header>
     </>
   );

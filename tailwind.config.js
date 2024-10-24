@@ -7,6 +7,8 @@ export default {
         PrimaryGray: "#18191F",
         PrimaryGreen: "#4CAF4F",
         Silver: "#F5F7FA",
+        TitleGray: "#4D4D4D",
+        TextGray: "#717171",
       },
     },
   },
