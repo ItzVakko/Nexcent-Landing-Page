@@ -14,7 +14,7 @@ const OurClients = () => {
         Our Clients
       </h2>
 
-      <p className="text-xl text-TextGray mt-2 text-center">
+      <p className="text-xl text-TextGray mt-4 text-center">
         We have been working with some Fortune 500+ clients
       </p>
 

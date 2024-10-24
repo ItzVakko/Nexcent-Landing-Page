@@ -1,4 +1,5 @@
 import "./App.css";
+import ComSystem from "./Components/CommunitySystem/ComSystem";
 import HeaderInfo from "./Components/HeaderInfo/HeaderInfo";
 import NavBar from "./Components/NavBar/NavBar";
 import OurClients from "./Components/OurClients/OurClients";
@@ -13,6 +14,7 @@ function App() {
 
       <main>
         <OurClients />
+        <ComSystem />
       </main>
     </>
   );
