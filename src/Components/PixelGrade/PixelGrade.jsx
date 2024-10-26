@@ -11,7 +11,7 @@ const PixelGrade = () => {
       />
 
       <div className="max-w-[750px]">
-        <h2 className="text-5xl font-medium text-TitleGray">
+        <h2 className="text-4xl font-medium text-TitleGray">
           The unseen of spending three
           <br /> years at Pixelgrade
         </h2>

@@ -1,4 +1,5 @@
 import "./App.css";
+import BusinessStats from "./Components/BusinessStats/BusinessStats";
 import ComSystem from "./Components/CommunitySystem/ComSystem";
 import HeaderInfo from "./Components/HeaderInfo/HeaderInfo";
 import NavBar from "./Components/NavBar/NavBar";
@@ -17,6 +18,7 @@ function App() {
         <OurClients />
         <ComSystem />
         <PixelGrade />
+        <BusinessStats />
       </main>
     </>
   );

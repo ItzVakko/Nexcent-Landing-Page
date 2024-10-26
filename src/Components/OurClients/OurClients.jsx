@@ -10,7 +10,7 @@ import Logo7 from "../../assets/images/ClientLogo7.png";
 const OurClients = () => {
   return (
     <div className="mt-10 px-60">
-      <h2 className="text-5xl font-medium text-TitleGray text-center">
+      <h2 className="text-4xl font-medium text-TitleGray text-center">
         Our Clients
       </h2>
 

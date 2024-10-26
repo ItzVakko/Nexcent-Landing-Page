@@ -7,7 +7,7 @@ import ComLogo3 from "../../assets/images/ComIcon3.png";
 const ComSystem = () => {
   return (
     <div className="mt-20 px-60">
-      <h2 className="text-5xl font-medium text-TitleGray text-center">
+      <h2 className="text-4xl font-medium text-TitleGray text-center">
         Manage your entire community
         <br />
         in a single system
