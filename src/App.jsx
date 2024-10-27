@@ -1,6 +1,7 @@
 import "./App.css";
 import BusinessStats from "./Components/BusinessStats/BusinessStats";
 import ComSystem from "./Components/CommunitySystem/ComSystem";
+import CustomersInfo from "./Components/CustomersInfo/CustomersInfo";
 import HeaderInfo from "./Components/HeaderInfo/HeaderInfo";
 import LearnDesign from "./Components/LearnDesign/LearnDesign";
 import NavBar from "./Components/NavBar/NavBar";
@@ -21,6 +22,7 @@ function App() {
         <PixelGrade />
         <BusinessStats />
         <LearnDesign />
+        <CustomersInfo />
       </main>
     </>
   );
