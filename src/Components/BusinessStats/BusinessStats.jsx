@@ -6,7 +6,7 @@ import BusinessIcon4 from "../../assets/images/BusinessIcon4.png";
 
 const BusinessStats = () => {
   return (
-    <div className="bg-Silver w-full h-72 px-60 py-16 flex justify-between items-center">
+    <div className="bg-Silver w-full h-72 px-60 mt-28 py-16 flex justify-between items-center">
       <div>
         <h2 className="text-4xl font-medium text-TitleGray">
           Helping a local
